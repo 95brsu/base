@@ -1,6 +1,6 @@
 ### Установка
 
-`git clone https://github.com/munris-vlad/base`
+`git clone [https://github.com/munris-vlad/base](https://github.com/95brsu/base.git)`
 
 `npm install`
 
